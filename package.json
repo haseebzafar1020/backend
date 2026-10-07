@@ -1,0 +1,20 @@
+{
+  "name": "haseebbackend",
+  "version": "1.0.0",
+  "description": "deploy a simple app ",
+  "keywords": [
+    "haseeb",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "haseeb",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.6",
+    "express": "^5.2.1"
+  }
+}
